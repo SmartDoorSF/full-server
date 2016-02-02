@@ -20,7 +20,7 @@ var openDoor = function(){
 }
 
 var timer = function(){
-  setTimeout(function(){entry = "close";}, 10000);
+  setTimeout(function(){entry = "close";}, 20000);
 }
 
 
